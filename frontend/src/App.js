@@ -7,6 +7,7 @@ const App = () => {
   return (
     <>
       <Header />
+      <Navbar />
       <main>
         <p>hello!</p>  
       </main>
